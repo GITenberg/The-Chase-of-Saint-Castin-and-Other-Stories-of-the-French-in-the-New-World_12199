@@ -1,0 +1,29 @@
+_repo: The-Chase-of-Saint-Castin-and-Other-Stories-of-the-French-in-the-New-World_12199
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Catherwood, Mary Hartwell
+    birthdate: 1847
+    deathdate: 1902
+    gutenberg_agent_id: '2247'
+    url: http://www.gutenberg.org/2009/agents/2247
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hartwell_Catherwood
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'French Americans -- Fiction'
+- !lcsh 'French -- North America -- Fiction'
+- !lcsh 'French Canadians -- Fiction'
+- GITenberg
+tableOfContents: The chase of Saint-Castin -- The Beauport loup-garou -- The mill
+  at Petit Cap -- Wolfe's Cove -- The windigo -- The kidnaped bride -- Pontiac's lookout.
+title: The Chase of Saint-Castin and Other Stories of the French in the New World
+url: http://www.gutenberg.org/ebooks/12199
